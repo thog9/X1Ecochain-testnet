@@ -77,4 +77,4 @@ Love these scripts? Fuel our work with a coffee!
 
 🔗 BUYMECAFE: [BUY ME CAFE](https://buymecafe.vercel.app/)
 
-🔗 WEBSITE: [BUY SCRIPS](https://thogtoolhub.pages.dev/)
+🔗 WEBSITE: [BUY SCRIPS](https://thogtoolhub.com/)
