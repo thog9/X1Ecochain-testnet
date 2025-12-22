@@ -109,7 +109,7 @@ def get_available_scripts(language):
             {"name": "X. Thoát", "value": "exit"},
         ],
         'en': [
-            {"name": "1. Faucet OPN → IOPn Tech", "value": "faucet", "locked": True},
+            {"name": "1. Faucet X1T → X1 EcoChain", "value": "faucet", "locked": True},
             {"name": "2. Automatic task Daily completion", "value": "daily", "locked": True},
             {"name": "3. Automatic task Linking & Social completion", "value": "social", "locked": True},
             
@@ -229,6 +229,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
 
