@@ -202,7 +202,7 @@ def main():
             print(f"{Fore.YELLOW}{messages[language]['locked']}")
             print('')
             print(f"{Fore.CYAN}→ Telegram: https://t.me/thogairdrops")
-            print(f"{Fore.CYAN}→ Donate: https://buymecafe.vercel.app{Style.RESET_ALL}")
+            print(f"{Fore.CYAN}→ Website: https://thogtoolhub.com{Style.RESET_ALL}")
             print('')
             input(f"{Fore.YELLOW}⏎ {messages[language]['press_enter']}{Style.RESET_ALL:^76}")
             continue
@@ -229,6 +229,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
 
